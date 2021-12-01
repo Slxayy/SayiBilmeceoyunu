@@ -1,0 +1,2 @@
+# SayiBilmeceOyunu
+Rastgele sayılarla oyun
